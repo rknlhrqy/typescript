@@ -1,0 +1,13 @@
+How to use
+
+This project provides the basic structure and needed configuration files for the user to develop a TypeScript project.
+
+Create your project folder. And copy all the files and subfolders from typescript_framework folder to your project folder. Including copying .nvmrc.
+
+Run "nvm use" to run the npm and node.js whose versions are defined in .nvmrc.
+
+Run "npm install" to install the required dependencies
+
+Run "tsc" to compile the TypeScript code
+
+Run "npm start" to run the development server (lite-server)
